@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Enemy Bullets
+  - Player Bullets
+  - Selected Circle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Deep Obstacles
+  - Object Obstacles
+  - 
+  - Player
+  - Enemies
+  - Player Bullets
+  - 
+  - Enemies Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2569311853
+    locked: 0
+  - name: Enemies
+    uniqueID: 2796020903
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3290969351
+    locked: 0
+  - name: UI
+    uniqueID: 3449915907
+    locked: 0
